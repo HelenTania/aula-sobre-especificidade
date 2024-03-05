@@ -1,0 +1,49 @@
+*{
+	margin:8px;
+	padding:8px;
+}
+p{
+	margin:15px;
+	border:6px solid blue;
+	padding:5px;
+}
+span{
+	color:yellow;
+}
+p{
+	border:2px solid fuchsia;
+}
+#p1 span{
+	color:yellow;
+}
+ul{
+	margin:15px;
+	border:1px solid indigo;
+}
+ul li{
+	
+	color:lime;
+}
+ul li a{
+	font-size:25px;
+	color:salmon;
+	
+	
+}
+.p2{
+	
+	font-size:20px;
+	margin-top:50px;
+	margin-left:50px;
+	background-color:aqua;
+	padding:30px;
+	border:1px dotted black;
+}
+#p1{
+	font-size:20px;
+	margin-top:50px;
+	margin-left:50px;
+	background-color:orange;
+	padding:30px;
+	border:5px dotted black;
+}
